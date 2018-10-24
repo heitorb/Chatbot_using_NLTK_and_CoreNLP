@@ -1,4 +1,4 @@
-# Chatbot using NLTK and CoreNLP
+# Seq2seq-based Chatbot using TensorFlow
 
 A neural chatbot using sequence to sequence (seq2seq) model with attentional decoder.
 
@@ -9,5 +9,4 @@ For this project, you will need the following tools:
 
 - [Jupyter Notebook]()
 - [TensorFlow]()
-- [NLTK]()
-- [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+
